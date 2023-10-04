@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+
+#card2{
+    position: relative;
+    bottom: 53vh;
+    left: 20vw;
+
+}
+
+.card{
+    background-color: black;
+    color: white;
+}
+
+#img{
+    width: 100vw;
+}
+nav{
+    background-color: black;
+}
